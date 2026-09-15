@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.20)
 project(StudyCPP)
 set(CMAKE_CXX_STANDARD 17)
 add_executable(rundemo
+        09快慢指针.cpp
         16快排.cpp
         10三次翻转.cpp
         11多表指针.cpp
