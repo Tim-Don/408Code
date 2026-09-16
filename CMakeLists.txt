@@ -17,4 +17,5 @@ add_executable(rundemo
         20三元组.cpp
         25后缀最大乘积.cpp
         23图.cpp
-        24拓扑序列.cpp)
+        24拓扑序列.cpp
+        22二叉排序树.cpp)
