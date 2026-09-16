@@ -15,4 +15,5 @@ add_executable(rundemo
         19链表.cpp
         21图欧拉路径.cpp
         20三元组.cpp
-        25后缀最大乘积.cpp)
+        25后缀最大乘积.cpp
+        23图.cpp)
