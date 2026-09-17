@@ -18,4 +18,5 @@ add_executable(rundemo
         25后缀最大乘积.cpp
         23图.cpp
         24拓扑序列.cpp
-        22二叉排序树.cpp)
+        22二叉排序树.cpp
+        Train/安九模板/树/统计树节点个数.cpp)
